@@ -1,0 +1,630 @@
+NSEvent: type=KeyDown loc=(602,164) time=408910.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="t" unmodchars="t" repeat=0 keyCode=17
+
+NSEvent: type=KeyDown loc=(602,164) time=408910.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="e" unmodchars="e" repeat=0 keyCode=14
+
+NSEvent: type=KeyDown loc=(602,164) time=408910.7 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="s" unmodchars="s" repeat=0 keyCode=1
+
+NSEvent: type=KeyDown loc=(602,164) time=408910.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="t" unmodchars="t" repeat=0 keyCode=17
+
+NSEvent: type=KeyDown loc=(602,164) time=408911.1 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+
+NSEvent: type=KeyDown loc=(602,164) time=408911.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="d" unmodchars="d" repeat=0 keyCode=2
+
+NSEvent: type=KeyDown loc=(602,164) time=408911.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="o" unmodchars="o" repeat=0 keyCode=31
+
+NSEvent: type=KeyDown loc=(602,164) time=408911.7 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="k" unmodchars="k" repeat=0 keyCode=40
+
+NSEvent: type=KeyDown loc=(602,164) time=408911.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="i" unmodchars="i" repeat=0 keyCode=34
+
+NSEvent: type=KeyDown loc=(602,164) time=408911.9 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="m" unmodchars="m" repeat=0 keyCode=46
+
+NSEvent: type=KeyDown loc=(602,164) time=408912.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="i" unmodchars="i" repeat=0 keyCode=34
+
+NSEvent: type=KeyDown loc=(602,164) time=408912.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=36
+
+NSEvent: type=KeyDown loc=(436,172) time=408969.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=36
+
+NSEvent: type=KeyDown loc=(436,172) time=408969.7 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=126
+
+NSEvent: type=KeyDown loc=(436,172) time=408970.1 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=36
+
+NSEvent: type=KeyDown loc=(436,172) time=408970.6 flags=0x20104 win=0x0 winNum=0 ctxt=0x0 chars="I" unmodchars="I" repeat=0 keyCode=34
+
+NSEvent: type=KeyDown loc=(436,172) time=408970.7 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="t" unmodchars="t" repeat=0 keyCode=17
+
+NSEvent: type=KeyDown loc=(436,172) time=408970.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+
+NSEvent: type=KeyDown loc=(436,172) time=408971.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="d" unmodchars="d" repeat=0 keyCode=2
+
+NSEvent: type=KeyDown loc=(436,172) time=408971.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="o" unmodchars="o" repeat=0 keyCode=31
+
+NSEvent: type=KeyDown loc=(436,172) time=408971.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="e" unmodchars="e" repeat=0 keyCode=14
+
+NSEvent: type=KeyDown loc=(436,172) time=408971.3 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="s" unmodchars="s" repeat=0 keyCode=1
+
+NSEvent: type=KeyDown loc=(436,172) time=408971.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="n" unmodchars="n" repeat=0 keyCode=45
+
+NSEvent: type=KeyDown loc=(436,172) time=408971.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="'" unmodchars="'" repeat=0 keyCode=39
+
+NSEvent: type=KeyDown loc=(436,172) time=408971.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="t" unmodchars="t" repeat=0 keyCode=17
+
+NSEvent: type=KeyDown loc=(436,172) time=408971.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+
+NSEvent: type=KeyDown loc=(436,172) time=408971.9 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="c" unmodchars="c" repeat=0 keyCode=8
+
+NSEvent: type=KeyDown loc=(436,172) time=408972.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="a" unmodchars="a" repeat=0 keyCode=0
+
+NSEvent: type=KeyDown loc=(436,172) time=408972.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="t" unmodchars="t" repeat=0 keyCode=17
+
+NSEvent: type=KeyDown loc=(436,172) time=408972.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="c" unmodchars="c" repeat=0 keyCode=8
+
+NSEvent: type=KeyDown loc=(436,172) time=408972.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="h" unmodchars="h" repeat=0 keyCode=4
+
+NSEvent: type=KeyDown loc=(436,172) time=408972.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+
+NSEvent: type=KeyDown loc=(436,172) time=408972.7 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="t" unmodchars="t" repeat=0 keyCode=17
+
+NSEvent: type=KeyDown loc=(436,172) time=408972.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="h" unmodchars="h" repeat=0 keyCode=4
+
+NSEvent: type=KeyDown loc=(436,172) time=408974.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="e" unmodchars="e" repeat=0 keyCode=14
+
+NSEvent: type=KeyDown loc=(436,172) time=408974.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+
+NSEvent: type=KeyDown loc=(436,172) time=408979.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="k" unmodchars="k" repeat=0 keyCode=40
+
+NSEvent: type=KeyDown loc=(436,172) time=408979.1 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="e" unmodchars="e" repeat=0 keyCode=14
+
+NSEvent: type=KeyDown loc=(436,172) time=408979.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="y" unmodchars="y" repeat=0 keyCode=16
+
+NSEvent: type=KeyDown loc=(436,172) time=408979.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="s" unmodchars="s" repeat=0 keyCode=1
+
+NSEvent: type=KeyDown loc=(436,172) time=408979.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+
+NSEvent: type=KeyDown loc=(436,172) time=408979.9 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="f" unmodchars="f" repeat=0 keyCode=3
+
+NSEvent: type=KeyDown loc=(436,172) time=408980.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="r" unmodchars="r" repeat=0 keyCode=15
+
+NSEvent: type=KeyDown loc=(436,172) time=408980.1 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="o" unmodchars="o" repeat=0 keyCode=31
+
+NSEvent: type=KeyDown loc=(436,172) time=408980.1 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="m" unmodchars="m" repeat=0 keyCode=46
+
+NSEvent: type=KeyDown loc=(436,172) time=408980.3 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+
+NSEvent: type=KeyDown loc=(436,172) time=408980.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="p" unmodchars="p" repeat=0 keyCode=35
+
+NSEvent: type=KeyDown loc=(436,172) time=408980.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="a" unmodchars="a" repeat=0 keyCode=0
+
+NSEvent: type=KeyDown loc=(436,172) time=408980.7 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="s" unmodchars="s" repeat=0 keyCode=1
+
+NSEvent: type=KeyDown loc=(436,172) time=408980.9 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="s" unmodchars="s" repeat=0 keyCode=1
+
+NSEvent: type=KeyDown loc=(436,172) time=408981.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="w" unmodchars="w" repeat=0 keyCode=13
+
+NSEvent: type=KeyDown loc=(436,172) time=408981.1 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="o" unmodchars="o" repeat=0 keyCode=31
+
+NSEvent: type=KeyDown loc=(436,172) time=408981.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="r" unmodchars="r" repeat=0 keyCode=15
+
+NSEvent: type=KeyDown loc=(436,172) time=408981.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="d" unmodchars="d" repeat=0 keyCode=2
+
+NSEvent: type=KeyDown loc=(436,172) time=408981.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+
+NSEvent: type=KeyDown loc=(436,172) time=408981.7 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="f" unmodchars="f" repeat=0 keyCode=3
+
+NSEvent: type=KeyDown loc=(436,172) time=408981.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="i" unmodchars="i" repeat=0 keyCode=34
+
+NSEvent: type=KeyDown loc=(436,172) time=408981.9 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="e" unmodchars="e" repeat=0 keyCode=14
+
+NSEvent: type=KeyDown loc=(436,172) time=408982.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="l" unmodchars="l" repeat=0 keyCode=37
+
+NSEvent: type=KeyDown loc=(436,172) time=408982.1 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="d" unmodchars="d" repeat=0 keyCode=2
+
+NSEvent: type=KeyDown loc=(436,172) time=408982.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="s" unmodchars="s" repeat=0 keyCode=1
+
+NSEvent: type=KeyDown loc=(436,172) time=408982.3 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+
+NSEvent: type=KeyDown loc=(436,172) time=408982.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="o" unmodchars="o" repeat=0 keyCode=31
+
+NSEvent: type=KeyDown loc=(436,172) time=408982.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="f" unmodchars="f" repeat=0 keyCode=3
+
+NSEvent: type=KeyDown loc=(436,172) time=408982.7 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+
+NSEvent: type=KeyDown loc=(436,172) time=408983.5 flags=0x20104 win=0x0 winNum=0 ctxt=0x0 chars="O" unmodchars="O" repeat=0 keyCode=31
+
+NSEvent: type=KeyDown loc=(436,172) time=408983.6 flags=0x20104 win=0x0 winNum=0 ctxt=0x0 chars="S" unmodchars="S" repeat=0 keyCode=1
+
+NSEvent: type=KeyDown loc=(436,172) time=408983.8 flags=0x20104 win=0x0 winNum=0 ctxt=0x0 chars="X" unmodchars="X" repeat=0 keyCode=7
+
+NSEvent: type=KeyDown loc=(436,172) time=408986.1 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+
+NSEvent: type=KeyDown loc=(436,172) time=408986.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="a" unmodchars="a" repeat=0 keyCode=0
+
+NSEvent: type=KeyDown loc=(436,172) time=408986.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="s" unmodchars="s" repeat=0 keyCode=1
+
+NSEvent: type=KeyDown loc=(436,172) time=408987.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+
+NSEvent: type=KeyDown loc=(436,172) time=408988.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=408988.3 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=408988.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=408988.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=408988.9 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="." unmodchars="." repeat=0 keyCode=47
+
+NSEvent: type=KeyDown loc=(436,172) time=408990.8 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=123
+
+NSEvent: type=KeyDown loc=(436,172) time=408991.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+
+NSEvent: type=KeyDown loc=(436,172) time=408991.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="a" unmodchars="a" repeat=0 keyCode=0
+
+NSEvent: type=KeyDown loc=(436,172) time=408991.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="s" unmodchars="s" repeat=0 keyCode=1
+
+NSEvent: type=KeyDown loc=(436,172) time=408991.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+
+NSEvent: type=KeyDown loc=(436,172) time=408991.8 flags=0x20104 win=0x0 winNum=0 ctxt=0x0 chars="N" unmodchars="N" repeat=0 keyCode=45
+
+NSEvent: type=KeyDown loc=(436,172) time=408991.9 flags=0x20104 win=0x0 winNum=0 ctxt=0x0 chars="S" unmodchars="S" repeat=0 keyCode=1
+
+NSEvent: type=KeyDown loc=(436,172) time=408992.2 flags=0x20104 win=0x0 winNum=0 ctxt=0x0 chars="E" unmodchars="E" repeat=0 keyCode=14
+
+NSEvent: type=KeyDown loc=(436,172) time=408992.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="v" unmodchars="v" repeat=0 keyCode=9
+
+NSEvent: type=KeyDown loc=(436,172) time=408992.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="e" unmodchars="e" repeat=0 keyCode=14
+
+NSEvent: type=KeyDown loc=(436,172) time=408992.7 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="n" unmodchars="n" repeat=0 keyCode=45
+
+NSEvent: type=KeyDown loc=(436,172) time=408992.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="t" unmodchars="t" repeat=0 keyCode=17
+
+NSEvent: type=KeyDown loc=(436,172) time=408993.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+
+NSEvent: type=KeyDown loc=(436,172) time=408993.3 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="o" unmodchars="o" repeat=0 keyCode=31
+
+NSEvent: type=KeyDown loc=(436,172) time=408993.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=408995.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="d" unmodchars="d" repeat=0 keyCode=2
+
+NSEvent: type=KeyDown loc=(436,172) time=408995.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="o" unmodchars="o" repeat=0 keyCode=31
+
+NSEvent: type=KeyDown loc=(436,172) time=408995.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="e" unmodchars="e" repeat=0 keyCode=14
+
+NSEvent: type=KeyDown loc=(436,172) time=408995.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="s" unmodchars="s" repeat=0 keyCode=1
+
+NSEvent: type=KeyDown loc=(436,172) time=408995.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="n" unmodchars="n" repeat=0 keyCode=45
+
+NSEvent: type=KeyDown loc=(436,172) time=408996.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="'" unmodchars="'" repeat=0 keyCode=39
+
+NSEvent: type=KeyDown loc=(436,172) time=408996.1 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="t" unmodchars="t" repeat=0 keyCode=17
+
+NSEvent: type=KeyDown loc=(436,172) time=408996.3 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+
+NSEvent: type=KeyDown loc=(436,172) time=408996.3 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="a" unmodchars="a" repeat=0 keyCode=0
+
+NSEvent: type=KeyDown loc=(436,172) time=408996.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="l" unmodchars="l" repeat=0 keyCode=37
+
+NSEvent: type=KeyDown loc=(436,172) time=408996.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="l" unmodchars="l" repeat=0 keyCode=37
+
+NSEvent: type=KeyDown loc=(436,172) time=408996.7 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="o" unmodchars="o" repeat=0 keyCode=31
+
+NSEvent: type=KeyDown loc=(436,172) time=408996.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="w" unmodchars="w" repeat=0 keyCode=13
+
+NSEvent: type=KeyDown loc=(436,172) time=408997.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+
+NSEvent: type=KeyDown loc=(436,172) time=408997.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="t" unmodchars="t" repeat=0 keyCode=17
+
+NSEvent: type=KeyDown loc=(436,172) time=408997.3 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="h" unmodchars="h" repeat=0 keyCode=4
+
+NSEvent: type=KeyDown loc=(436,172) time=408997.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="i" unmodchars="i" repeat=0 keyCode=34
+
+NSEvent: type=KeyDown loc=(436,172) time=408997.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="s" unmodchars="s" repeat=0 keyCode=1
+
+NSEvent: type=KeyDown loc=(436,172) time=408997.9 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+
+NSEvent: type=KeyDown loc=(436,172) time=408998.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="f" unmodchars="f" repeat=0 keyCode=3
+
+NSEvent: type=KeyDown loc=(436,172) time=408998.3 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="r" unmodchars="r" repeat=0 keyCode=15
+
+NSEvent: type=KeyDown loc=(436,172) time=408998.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="o" unmodchars="o" repeat=0 keyCode=31
+
+NSEvent: type=KeyDown loc=(436,172) time=408998.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="m" unmodchars="m" repeat=0 keyCode=46
+
+NSEvent: type=KeyDown loc=(436,172) time=408998.7 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+
+NSEvent: type=KeyDown loc=(436,172) time=408998.7 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="w" unmodchars="w" repeat=0 keyCode=13
+
+NSEvent: type=KeyDown loc=(436,172) time=408998.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="h" unmodchars="h" repeat=0 keyCode=4
+
+NSEvent: type=KeyDown loc=(436,172) time=408998.9 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="a" unmodchars="a" repeat=0 keyCode=0
+
+NSEvent: type=KeyDown loc=(436,172) time=408999.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="t" unmodchars="t" repeat=0 keyCode=17
+
+NSEvent: type=KeyDown loc=(436,172) time=408999.3 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+
+NSEvent: type=KeyDown loc=(436,172) time=408999.6 flags=0x20104 win=0x0 winNum=0 ctxt=0x0 chars="I" unmodchars="I" repeat=0 keyCode=34
+
+NSEvent: type=KeyDown loc=(436,172) time=408999.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+
+NSEvent: type=KeyDown loc=(436,172) time=409000.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="s" unmodchars="s" repeat=0 keyCode=1
+
+NSEvent: type=KeyDown loc=(436,172) time=409001.3 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=409001.3 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="r" unmodchars="r" repeat=0 keyCode=15
+
+NSEvent: type=KeyDown loc=(436,172) time=409001.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="e" unmodchars="e" repeat=0 keyCode=14
+
+NSEvent: type=KeyDown loc=(436,172) time=409001.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="s" unmodchars="s" repeat=0 keyCode=1
+
+NSEvent: type=KeyDown loc=(436,172) time=409001.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="e" unmodchars="e" repeat=0 keyCode=14
+
+NSEvent: type=KeyDown loc=(436,172) time=409001.9 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="a" unmodchars="a" repeat=0 keyCode=0
+
+NSEvent: type=KeyDown loc=(436,172) time=409002.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="r" unmodchars="r" repeat=0 keyCode=15
+
+NSEvent: type=KeyDown loc=(436,172) time=409002.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="c" unmodchars="c" repeat=0 keyCode=8
+
+NSEvent: type=KeyDown loc=(436,172) time=409002.3 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="h" unmodchars="h" repeat=0 keyCode=4
+
+NSEvent: type=KeyDown loc=(436,172) time=409002.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="e" unmodchars="e" repeat=0 keyCode=14
+
+NSEvent: type=KeyDown loc=(436,172) time=409002.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="d" unmodchars="d" repeat=0 keyCode=2
+
+NSEvent: type=KeyDown loc=(436,172) time=409004.1 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=409004.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=409004.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=409004.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=409004.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=409004.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=409004.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=409004.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=409004.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=409004.7 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=409004.7 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=409004.7 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=409004.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=409004.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=409004.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=409004.9 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=409004.9 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=409004.9 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=409005.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=409005.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=409005.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=409005.1 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=409005.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=409006.6 flags=0x100108 win=0x0 winNum=0 ctxt=0x0 chars="t" unmodchars="t" repeat=0 keyCode=17
+
+NSEvent: type=KeyDown loc=(436,172) time=409008.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="g" unmodchars="g" repeat=0 keyCode=5
+
+NSEvent: type=KeyDown loc=(436,172) time=409009.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=409009.7 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="o" unmodchars="o" repeat=0 keyCode=31
+
+NSEvent: type=KeyDown loc=(436,172) time=409011.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=409011.7 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=409011.9 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=51
+
+NSEvent: type=KeyDown loc=(436,172) time=409012.3 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="f" unmodchars="f" repeat=0 keyCode=3
+
+NSEvent: type=KeyDown loc=(436,172) time=409012.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="y" unmodchars="y" repeat=0 keyCode=16
+
+NSEvent: type=KeyDown loc=(436,172) time=409012.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="t" unmodchars="t" repeat=0 keyCode=17
+
+NSEvent: type=KeyDown loc=(436,172) time=409012.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="a" unmodchars="a" repeat=0 keyCode=0
+
+NSEvent: type=KeyDown loc=(436,172) time=409013.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=36
+
+NSEvent: type=KeyDown loc=(615,628) time=409019.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="f" unmodchars="f" repeat=0 keyCode=3
+
+NSEvent: type=KeyDown loc=(615,628) time=409020.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="a" unmodchars="a" repeat=0 keyCode=0
+
+NSEvent: type=KeyDown loc=(615,628) time=409020.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="c" unmodchars="c" repeat=0 keyCode=8
+
+NSEvent: type=KeyDown loc=(615,628) time=409020.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="e" unmodchars="e" repeat=0 keyCode=14
+
+NSEvent: type=KeyDown loc=(615,628) time=409020.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=36
+
+NSEvent: type=KeyDown loc=(854,705) time=409043.2 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=125
+
+NSEvent: type=KeyDown loc=(854,705) time=409045.7 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="i" unmodchars="i" repeat=0 keyCode=34
+
+NSEvent: type=KeyDown loc=(854,705) time=409046.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="s" unmodchars="s" repeat=0 keyCode=1
+
+NSEvent: type=KeyDown loc=(854,705) time=409046.3 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="t" unmodchars="t" repeat=0 keyCode=17
+
+NSEvent: type=KeyDown loc=(854,705) time=409046.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="o" unmodchars="o" repeat=0 keyCode=31
+
+NSEvent: type=KeyDown loc=(854,705) time=409046.9 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="s" unmodchars="s" repeat=0 keyCode=1
+
+NSEvent: type=KeyDown loc=(854,705) time=409047.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="e" unmodchars="e" repeat=0 keyCode=14
+
+NSEvent: type=KeyDown loc=(854,705) time=409047.1 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="l" unmodchars="l" repeat=0 keyCode=37
+
+NSEvent: type=KeyDown loc=(854,705) time=409047.3 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="i" unmodchars="i" repeat=0 keyCode=34
+
+NSEvent: type=KeyDown loc=(854,705) time=409047.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="d" unmodchars="d" repeat=0 keyCode=2
+
+NSEvent: type=KeyDown loc=(854,705) time=409047.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="a" unmodchars="a" repeat=0 keyCode=0
+
+NSEvent: type=KeyDown loc=(854,705) time=409047.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="s" unmodchars="s" repeat=0 keyCode=1
+
+NSEvent: type=KeyDown loc=(854,705) time=409047.8 flags=0x20104 win=0x0 winNum=0 ctxt=0x0 chars="@" unmodchars="@" repeat=0 keyCode=19
+
+NSEvent: type=KeyDown loc=(854,705) time=409048.1 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="g" unmodchars="g" repeat=0 keyCode=5
+
+NSEvent: type=KeyDown loc=(854,705) time=409048.3 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="a" unmodchars="a" repeat=0 keyCode=0
+
+NSEvent: type=KeyDown loc=(854,705) time=409048.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=51
+
+NSEvent: type=KeyDown loc=(854,705) time=409049.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="m" unmodchars="m" repeat=0 keyCode=46
+
+NSEvent: type=KeyDown loc=(854,705) time=409049.1 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="a" unmodchars="a" repeat=0 keyCode=0
+
+NSEvent: type=KeyDown loc=(854,705) time=409049.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="i" unmodchars="i" repeat=0 keyCode=34
+
+NSEvent: type=KeyDown loc=(854,705) time=409049.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="l" unmodchars="l" repeat=0 keyCode=37
+
+NSEvent: type=KeyDown loc=(854,705) time=409049.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="." unmodchars="." repeat=0 keyCode=47
+
+NSEvent: type=KeyDown loc=(854,705) time=409050.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="c" unmodchars="c" repeat=0 keyCode=8
+
+NSEvent: type=KeyDown loc=(854,705) time=409050.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="o" unmodchars="o" repeat=0 keyCode=31
+
+NSEvent: type=KeyDown loc=(854,705) time=409050.1 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="m" unmodchars="m" repeat=0 keyCode=46
+
+NSEvent: type=KeyDown loc=(854,705) time=409050.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="	" unmodchars="	" repeat=0 keyCode=48
+
+NSEvent: type=KeyDown loc=(703,512) time=409098.1 flags=0x100108 win=0x0 winNum=0 ctxt=0x0 chars="a" unmodchars="a" repeat=0 keyCode=0
+
+NSEvent: type=KeyDown loc=(703,512) time=409098.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=51
+
+NSEvent: type=KeyDown loc=(703,512) time=409099.1 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="f" unmodchars="f" repeat=0 keyCode=3
+
+NSEvent: type=KeyDown loc=(703,512) time=409099.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="t" unmodchars="t" repeat=0 keyCode=17
+
+NSEvent: type=KeyDown loc=(703,512) time=409099.7 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="w" unmodchars="w" repeat=0 keyCode=13
+
+NSEvent: type=KeyDown loc=(703,512) time=409100.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="w" unmodchars="w" repeat=1 keyCode=13
+
+NSEvent: type=KeyDown loc=(703,512) time=409100.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="g" unmodchars="g" repeat=0 keyCode=5
+
+NSEvent: type=KeyDown loc=(501,824) time=409126.9 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="f" unmodchars="f" repeat=0 keyCode=3
+
+NSEvent: type=KeyDown loc=(501,824) time=409127.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="a" unmodchars="a" repeat=0 keyCode=0
+
+NSEvent: type=KeyDown loc=(501,824) time=409127.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=51
+
+NSEvent: type=KeyDown loc=(501,824) time=409127.7 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=51
+
+NSEvent: type=KeyDown loc=(501,824) time=409127.9 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=51
+
+NSEvent: type=KeyDown loc=(501,824) time=409130.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="f" unmodchars="f" repeat=0 keyCode=3
+
+NSEvent: type=KeyDown loc=(501,824) time=409131.1 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="y" unmodchars="y" repeat=0 keyCode=16
+
+NSEvent: type=KeyDown loc=(501,824) time=409131.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=51
+
+NSEvent: type=KeyDown loc=(501,824) time=409131.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=51
+
+NSEvent: type=KeyDown loc=(501,824) time=409131.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=51
+
+NSEvent: type=KeyDown loc=(501,824) time=409132.1 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="f" unmodchars="f" repeat=0 keyCode=3
+
+NSEvent: type=KeyDown loc=(501,824) time=409132.3 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="y" unmodchars="y" repeat=0 keyCode=16
+
+NSEvent: type=KeyDown loc=(501,824) time=409132.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="t" unmodchars="t" repeat=0 keyCode=17
+
+NSEvent: type=KeyDown loc=(501,824) time=409132.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="a" unmodchars="a" repeat=0 keyCode=0
+
+NSEvent: type=KeyDown loc=(501,824) time=409132.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=36
+
+NSEvent: type=KeyDown loc=(727,636) time=409142.1 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="i" unmodchars="i" repeat=0 keyCode=34
+
+NSEvent: type=KeyDown loc=(727,636) time=409142.3 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="s" unmodchars="s" repeat=0 keyCode=1
+
+NSEvent: type=KeyDown loc=(727,636) time=409142.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="t" unmodchars="t" repeat=0 keyCode=17
+
+NSEvent: type=KeyDown loc=(727,636) time=409142.7 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="o" unmodchars="o" repeat=0 keyCode=31
+
+NSEvent: type=KeyDown loc=(727,636) time=409142.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="s" unmodchars="s" repeat=0 keyCode=1
+
+NSEvent: type=KeyDown loc=(727,636) time=409142.9 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="e" unmodchars="e" repeat=0 keyCode=14
+
+NSEvent: type=KeyDown loc=(727,636) time=409142.9 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="l" unmodchars="l" repeat=0 keyCode=37
+
+NSEvent: type=KeyDown loc=(727,636) time=409143.1 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="i" unmodchars="i" repeat=0 keyCode=34
+
+NSEvent: type=KeyDown loc=(727,636) time=409143.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="d" unmodchars="d" repeat=0 keyCode=2
+
+NSEvent: type=KeyDown loc=(727,636) time=409143.3 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="a" unmodchars="a" repeat=0 keyCode=0
+
+NSEvent: type=KeyDown loc=(727,636) time=409143.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="s" unmodchars="s" repeat=0 keyCode=1
+
+NSEvent: type=KeyDown loc=(727,636) time=409143.6 flags=0x20104 win=0x0 winNum=0 ctxt=0x0 chars="@" unmodchars="@" repeat=0 keyCode=19
+
+NSEvent: type=KeyDown loc=(727,636) time=409143.9 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="g" unmodchars="g" repeat=0 keyCode=5
+
+NSEvent: type=KeyDown loc=(727,636) time=409144.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="m" unmodchars="m" repeat=0 keyCode=46
+
+NSEvent: type=KeyDown loc=(727,636) time=409144.1 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="a" unmodchars="a" repeat=0 keyCode=0
+
+NSEvent: type=KeyDown loc=(727,636) time=409144.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="i" unmodchars="i" repeat=0 keyCode=34
+
+NSEvent: type=KeyDown loc=(727,636) time=409144.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="l" unmodchars="l" repeat=0 keyCode=37
+
+NSEvent: type=KeyDown loc=(727,636) time=409144.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="." unmodchars="." repeat=0 keyCode=47
+
+NSEvent: type=KeyDown loc=(727,636) time=409145.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="c" unmodchars="c" repeat=0 keyCode=8
+
+NSEvent: type=KeyDown loc=(727,636) time=409145.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="o" unmodchars="o" repeat=0 keyCode=31
+
+NSEvent: type=KeyDown loc=(727,636) time=409145.1 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="m" unmodchars="m" repeat=0 keyCode=46
+
+NSEvent: type=KeyDown loc=(681,590) time=409146.9 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="	" unmodchars="	" repeat=0 keyCode=48
+
+NSEvent: type=KeyDown loc=(680,158) time=409170.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=51
+
+NSEvent: type=KeyDown loc=(678,120) time=409207.4 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=126
+
+NSEvent: type=KeyDown loc=(678,120) time=409207.7 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=126
+
+NSEvent: type=KeyDown loc=(678,120) time=409207.9 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=126
+
+NSEvent: type=KeyDown loc=(678,120) time=409208.2 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=126
+
+NSEvent: type=KeyDown loc=(678,120) time=409208.4 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=126
+
+NSEvent: type=KeyDown loc=(678,120) time=409208.6 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=126
+
+NSEvent: type=KeyDown loc=(678,120) time=409208.8 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=126
+
+NSEvent: type=KeyDown loc=(678,120) time=409209.0 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=126
+
+NSEvent: type=KeyDown loc=(678,120) time=409209.2 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=126
+
+NSEvent: type=KeyDown loc=(678,120) time=409209.3 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=126
+
+NSEvent: type=KeyDown loc=(678,120) time=409209.5 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=126
+
+NSEvent: type=KeyDown loc=(678,120) time=409209.7 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=126
+
+NSEvent: type=KeyDown loc=(678,120) time=409210.0 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=125
+
+NSEvent: type=KeyDown loc=(678,120) time=409210.2 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=125
+
+NSEvent: type=KeyDown loc=(678,120) time=409210.3 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=125
+
+NSEvent: type=KeyDown loc=(678,120) time=409210.3 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=125
+
+NSEvent: type=KeyDown loc=(678,120) time=409210.3 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=125
+
+NSEvent: type=KeyDown loc=(678,120) time=409210.4 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=125
+
+NSEvent: type=KeyDown loc=(678,120) time=409210.4 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=125
+
+NSEvent: type=KeyDown loc=(678,120) time=409210.4 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=125
+
+NSEvent: type=KeyDown loc=(678,120) time=409210.5 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=125
+
+NSEvent: type=KeyDown loc=(678,120) time=409210.5 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=125
+
+NSEvent: type=KeyDown loc=(678,120) time=409210.5 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=125
+
+NSEvent: type=KeyDown loc=(678,120) time=409210.6 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=125
+
+NSEvent: type=KeyDown loc=(678,120) time=409210.6 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=125
+
+NSEvent: type=KeyDown loc=(678,120) time=409210.6 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=125
+
+NSEvent: type=KeyDown loc=(678,120) time=409210.7 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=125
+
+NSEvent: type=KeyDown loc=(678,120) time=409210.7 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=125
+
+NSEvent: type=KeyDown loc=(678,120) time=409210.7 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=125
+
+NSEvent: type=KeyDown loc=(678,120) time=409210.8 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=125
+
+NSEvent: type=KeyDown loc=(678,120) time=409210.8 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=125
+
+NSEvent: type=KeyDown loc=(678,120) time=409210.8 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=1 keyCode=125
+
+NSEvent: type=KeyDown loc=(678,120) time=409211.1 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="p" unmodchars="p" repeat=0 keyCode=35
+
+NSEvent: type=KeyDown loc=(678,120) time=409211.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="s" unmodchars="s" repeat=0 keyCode=1
+
+NSEvent: type=KeyDown loc=(678,120) time=409211.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+
+NSEvent: type=KeyDown loc=(678,120) time=409211.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="a" unmodchars="a" repeat=0 keyCode=0
+
+NSEvent: type=KeyDown loc=(678,120) time=409211.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="u" unmodchars="u" repeat=0 keyCode=32
+
+NSEvent: type=KeyDown loc=(678,120) time=409211.7 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="x" unmodchars="x" repeat=0 keyCode=7
+
+NSEvent: type=KeyDown loc=(678,120) time=409212.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+
+NSEvent: type=KeyDown loc=(678,120) time=409213.2 flags=0x20104 win=0x0 winNum=0 ctxt=0x0 chars="|" unmodchars="|" repeat=0 keyCode=42
+
+NSEvent: type=KeyDown loc=(678,120) time=409213.3 flags=0x20104 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+
+NSEvent: type=KeyDown loc=(678,120) time=409217.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="g" unmodchars="g" repeat=0 keyCode=5
+
+NSEvent: type=KeyDown loc=(678,120) time=409217.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="e" unmodchars="e" repeat=0 keyCode=14
+
+NSEvent: type=KeyDown loc=(678,120) time=409217.9 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=51
+
+NSEvent: type=KeyDown loc=(678,120) time=409218.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="r" unmodchars="r" repeat=0 keyCode=15
+
+NSEvent: type=KeyDown loc=(678,120) time=409218.1 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="e" unmodchars="e" repeat=0 keyCode=14
+
+NSEvent: type=KeyDown loc=(678,120) time=409218.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="p" unmodchars="p" repeat=0 keyCode=35
+
+NSEvent: type=KeyDown loc=(678,120) time=409218.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+
+NSEvent: type=KeyDown loc=(678,120) time=409218.7 flags=0x20104 win=0x0 winNum=0 ctxt=0x0 chars=""" unmodchars=""" repeat=0 keyCode=39
+
+NSEvent: type=KeyDown loc=(678,120) time=409218.8 flags=0x20104 win=0x0 winNum=0 ctxt=0x0 chars=""" unmodchars=""" repeat=0 keyCode=39
+
+NSEvent: type=KeyDown loc=(678,120) time=409219.1 flags=0xa00100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=123
+
+NSEvent: type=KeyDown loc=(678,120) time=409219.3 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="t" unmodchars="t" repeat=0 keyCode=17
+
+NSEvent: type=KeyDown loc=(678,120) time=409219.3 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="e" unmodchars="e" repeat=0 keyCode=14
+
+NSEvent: type=KeyDown loc=(678,120) time=409219.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="s" unmodchars="s" repeat=0 keyCode=1
+
+NSEvent: type=KeyDown loc=(678,120) time=409219.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="t" unmodchars="t" repeat=0 keyCode=17
+
+NSEvent: type=KeyDown loc=(678,120) time=409219.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=36
+
+NSEvent: type=KeyDown loc=(678,120) time=409220.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="k" unmodchars="k" repeat=0 keyCode=40
+
+NSEvent: type=KeyDown loc=(678,120) time=409221.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="i" unmodchars="i" repeat=0 keyCode=34
+
+NSEvent: type=KeyDown loc=(678,120) time=409221.3 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="l" unmodchars="l" repeat=0 keyCode=37
+
+NSEvent: type=KeyDown loc=(678,120) time=409221.5 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="l" unmodchars="l" repeat=0 keyCode=37
+
+NSEvent: type=KeyDown loc=(678,120) time=409221.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+
+NSEvent: type=KeyDown loc=(678,120) time=409221.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="-" unmodchars="-" repeat=0 keyCode=27
+
+NSEvent: type=KeyDown loc=(678,120) time=409222.0 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="9" unmodchars="9" repeat=0 keyCode=25
+
+NSEvent: type=KeyDown loc=(678,120) time=409222.4 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars=" " unmodchars=" " repeat=0 keyCode=49
+
+NSEvent: type=KeyDown loc=(678,120) time=409223.9 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="5" unmodchars="5" repeat=0 keyCode=23
+
+NSEvent: type=KeyDown loc=(678,120) time=409224.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="6" unmodchars="6" repeat=0 keyCode=22
+
+NSEvent: type=KeyDown loc=(678,120) time=409224.6 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="5" unmodchars="5" repeat=0 keyCode=23
+
+NSEvent: type=KeyDown loc=(678,120) time=409224.8 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="1" unmodchars="1" repeat=0 keyCode=18
+
+NSEvent: type=KeyDown loc=(678,120) time=409224.9 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="9" unmodchars="9" repeat=0 keyCode=25
+
+NSEvent: type=KeyDown loc=(678,120) time=409226.2 flags=0x100 win=0x0 winNum=0 ctxt=0x0 chars="" unmodchars="" repeat=0 keyCode=36
+

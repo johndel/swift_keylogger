@@ -39,12 +39,6 @@ let date_timestamp = String(NSDate().timeIntervalSince1970)
 let filename1 = "/Users/johndel/projects/swift/test/keys" + date_timestamp + ".txt"
 let filename2 = "/Users/johndel/projects/swift/test/events" + date_timestamp + ".txt"
 
-func getDocumentsDirectory() -> NSString {
-    let paths = NSSearchPathForDirectoriesInDomains(.DocumentDirectory, .UserDomainMask, true)
-    let documentsDirectory = paths[0]
-    return documentsDirectory
-}
-
 func acquirePrivileges() -> Bool {
     let accessEnabled = AXIsProcessTrustedWithOptions(
         [kAXTrustedCheckOptionPrompt.takeUnretainedValue() as String: true])

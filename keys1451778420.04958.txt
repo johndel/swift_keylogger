@@ -1,0 +1,1 @@
+test dokimiIt doesn't catch the keys from password fields of OSX as . as NSEvent odoesn't allow this from what I sresearchedtgofytafaceistoselidas@gamail.com	aftwwgfafyfytaistoselidas@gmail.com	ps aux | gerep ""testkill -9 56519
