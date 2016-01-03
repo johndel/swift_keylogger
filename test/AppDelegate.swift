@@ -7,6 +7,7 @@
 //
 
 import Cocoa
+import Foundation
 
 extension String {
     func appendLineToURL(fileURL: NSURL) throws {
@@ -39,6 +40,30 @@ let date_timestamp = String(NSDate().timeIntervalSince1970)
 let filename1 = "/Users/johndel/projects/swift/test/keys" + date_timestamp + ".txt"
 let filename2 = "/Users/johndel/projects/swift/test/events" + date_timestamp + ".txt"
 
+
+//func dateIntervalScreen() {
+//    let now = Int(NSDate().timeIntervalSince1970) + 3
+//    print(now < Int(NSDate().timeIntervalSince1970))
+//    repeat {
+////        print(Int(NSDate().timeIntervalSince1970))
+//        if(now < Int(NSDate().timeIntervalSince1970)) {
+//            let times = Int(NSDate().timeIntervalSince1970)
+//            print("times: " + String(times))
+//            let now = Int(NSDate().timeIntervalSince1970) + 3
+//            print("now: " + String(now))
+//            print(now < Int(NSDate().timeIntervalSince1970))
+//        }
+//    
+//    
+////        print(String(NSDate().timeIntervalSince1970))
+////        takeScreenshot()
+//    }while(true);
+//}
+
+func test() {
+    print("hello")
+}
+
 func acquirePrivileges() -> Bool {
     let accessEnabled = AXIsProcessTrustedWithOptions(
         [kAXTrustedCheckOptionPrompt.takeUnretainedValue() as String: true])
@@ -53,9 +78,12 @@ func acquirePrivileges() -> Bool {
 @NSApplicationMain
 class AppDelegate: NSObject, NSApplicationDelegate {
     func applicationDidFinishLaunching(aNotification: NSNotification) {
+        // Take screenshot is into view controller file
         // Insert code here to initialize your application
         acquirePrivileges();
         
+        
+
         // keyboard listeners
         NSEvent.addGlobalMonitorForEventsMatchingMask(
             NSEventMask.KeyDownMask, handler: {(event: NSEvent) in
